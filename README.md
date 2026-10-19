@@ -28,9 +28,11 @@
 
 ## Profile Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarvaMonkeyFr&show_icons=true&theme=tokyonight)
+![GitHub Metrics](./github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarvaMonkeyFr&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarvaMonkeyFr&show_icons=true&theme=tokyonight&cache_seconds=3600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarvaMonkeyFr&layout=compact&theme=tokyonight&cache_seconds=3600)
 
 ---
 
