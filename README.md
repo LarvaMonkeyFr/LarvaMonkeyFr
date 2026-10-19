@@ -34,4 +34,19 @@
 
 ---
 
+## Goofy ah gifs
+
+<p align="center">
+  <img src="gifs/DancinKittyCats.gif" width="150" alt="Dancing cats"/>
+  <img src="gifs/DancinAnime.gif" width="150" alt="Dancing anime"/>
+  <img src="gifs/KonataThinkin.gif" width="150" alt="Konata thinking"/>
+</p>
+
+<p align="center">
+  <img src="gifs/BurpinKitteh.gif" width="150" alt="Burping kitten"/>
+  <img src="gifs/ShowerKitteh.gif" width="150" alt="Shower kitten"/>
+</p>
+
+---
+
 Thanks for visiting my profile!
