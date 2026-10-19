@@ -42,6 +42,10 @@
   <img src="gifs/KonataThinkin.gif" width="130" alt="Konata thinking"/>
   <img src="gifs/BurpinKitteh.gif" width="140" alt="Burping kitten"/>
   <img src="gifs/ShowerKitteh.gif" width="110" alt="Shower kitten"/>
+  <img src="gifs/GuyBurpingIDFK.gif" width="150" alt="Guy burping"/>
+  <img src="gifs/MinionWhite.gif" width="130" alt="Minion meme"/>
+  <img src="gifs/MonobehaviourTheLoveOfMyLife.gif" width="170" alt="Monobehaviour meme"/>
+  <img src="gifs/WalterStaresAtMe.gif" width="150" alt="Walter staring"/>
 </div>
 
 ---
