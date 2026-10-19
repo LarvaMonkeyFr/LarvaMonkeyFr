@@ -36,16 +36,13 @@
 
 ## Goofy ahh gifs
 
-<p align="center">
+<div align="left">
   <img src="gifs/DancinKittyCats.gif" width="180" alt="Dancing cats"/>
   <img src="gifs/DancinAnime.gif" width="180" alt="Dancing anime"/>
   <img src="gifs/KonataThinkin.gif" width="130" alt="Konata thinking"/>
-</p>
-
-<p align="center">
   <img src="gifs/BurpinKitteh.gif" width="140" alt="Burping kitten"/>
   <img src="gifs/ShowerKitteh.gif" width="110" alt="Shower kitten"/>
-</p>
+</div>
 
 ---
 
