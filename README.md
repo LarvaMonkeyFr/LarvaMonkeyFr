@@ -46,7 +46,7 @@
   <img src="gifs/MinionWhite.gif" width="130" alt="Minion meme"/>
   <img src="gifs/MonobehaviourTheLoveOfMyLife.gif" width="170" alt="Monobehaviour meme"/>
   <img src="gifs/WalterStaresAtMe.gif" width="150" alt="Walter staring"/>
-  <img src="gifs/Mai_wings.jpg" width="150" alt="Mai wings"/>
+  <img src="gifs/Mai_wings.jpg" width="170" alt="Mai wings"/>
 </div>
 
 ---
